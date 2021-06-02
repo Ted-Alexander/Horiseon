@@ -6,5 +6,5 @@ This repository is for sharing html and css code used for the "# 01 HTML, CSS, a
 
 https://ted-alexander.github.io/Horiseon/
 
-![screenshot of website](Capture.png)
+![screenshot of website](Capture.PNG)
 
